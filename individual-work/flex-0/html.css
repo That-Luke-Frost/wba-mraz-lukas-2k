@@ -1,0 +1,49 @@
+p {
+  color:#0000ff;
+  font-size:16px;
+  font-weight:normal;
+}
+h1 {
+  color:#ffa500;
+  font-size:30px;
+  font-weight:bold;
+}
+h2 {
+  color:#00ff00;
+  font-size:25px;
+  font-weight:600;
+}
+.testclass0 {
+  color:red;
+  background-color:lightgreen;
+  display:flex;
+  align-content:space-between;
+}
+.testclass1 {
+  display:flex;
+  background-color:pink;
+  color:black;
+  width:50px;
+  height:50px;
+  justify-content:center;
+  align-items:center;
+//  flex-grow:1;
+}
+.testclass2 {
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  background-color:lightgreen;
+  color:black;
+  width:500px;
+  height:200px;
+//  border:1px solid red;
+
+}
+.testclass3 {
+//  background-color:red;
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+//  border:1px solid blue;
+}
