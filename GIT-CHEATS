@@ -1,0 +1,5 @@
+git clone https://<tokenhere>@github.com/<user>/<repo>.git
+
+git add . //adds all files
+git commit -m "Added foo" //adds commit message (optional)
+git push origin master //pushes master to remote repository
